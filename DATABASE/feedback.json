@@ -1,0 +1,61 @@
+{
+  "C001": {"product_id": "P1001", "rating": 5, "comment": "Love the lamp! Super convenient.", "date": "2026-01-03"},
+  "C002": {"product_id": "P1002", "rating": 4, "comment": "Great tracker but battery could last longer.", "date": "2026-01-04"},
+  "C003": {"product_id": "P1003", "rating": 5, "comment": "Easy setup and works flawlessly.", "date": "2026-01-05"},
+  "C004": {"product_id": "P1004", "rating": 3, "comment": "Sound is good but fit is uncomfortable.", "date": "2026-01-06"},
+  "C005": {"product_id": "P1005", "rating": 4, "comment": "Keeps my coffee warm all morning.", "date": "2026-01-07"},
+
+  "C006": {"product_id": "P1001", "rating": 4, "comment": "Nice brightness range.", "date": "2026-01-08"},
+  "C007": {"product_id": "P1002", "rating": 5, "comment": "Accurate tracking and comfortable.", "date": "2026-01-09"},
+  "C008": {"product_id": "P1003", "rating": 4, "comment": "Good value for the price.", "date": "2026-01-10"},
+  "C009": {"product_id": "P1004", "rating": 5, "comment": "Amazing sound quality!", "date": "2026-01-11"},
+  "C010": {"product_id": "P1005", "rating": 3, "comment": "Works well but battery is small.", "date": "2026-01-12"},
+
+  "C011": {"product_id": "P1001", "rating": 5, "comment": "Perfect for my desk setup.", "date": "2026-01-13"},
+  "C012": {"product_id": "P1002", "rating": 2, "comment": "Stopped syncing after a week.", "date": "2026-01-14"},
+  "C013": {"product_id": "P1003", "rating": 5, "comment": "Very reliable security hub.", "date": "2026-01-15"},
+  "C014": {"product_id": "P1004", "rating": 4, "comment": "Comfortable and great noise canceling.", "date": "2026-01-16"},
+  "C015": {"product_id": "P1005", "rating": 5, "comment": "My favorite mug now.", "date": "2026-01-17"},
+
+  "C016": {"product_id": "P1001", "rating": 3, "comment": "Good but not bright enough.", "date": "2026-01-18"},
+  "C017": {"product_id": "P1002", "rating": 4, "comment": "Solid performance.", "date": "2026-01-19"},
+  "C018": {"product_id": "P1003", "rating": 3, "comment": "Setup was confusing.", "date": "2026-01-20"},
+  "C019": {"product_id": "P1004", "rating": 5, "comment": "Best earbuds I've owned.", "date": "2026-01-21"},
+  "C020": {"product_id": "P1005", "rating": 4, "comment": "Very convenient.", "date": "2026-01-22"},
+
+  "C021": {"product_id": "P1001", "rating": 4, "comment": "Nice modern design.", "date": "2026-01-23"},
+  "C022": {"product_id": "P1002", "rating": 5, "comment": "Helps me stay active.", "date": "2026-01-24"},
+  "C023": {"product_id": "P1003", "rating": 4, "comment": "Good motion detection.", "date": "2026-01-25"},
+  "C024": {"product_id": "P1004", "rating": 2, "comment": "Connectivity issues.", "date": "2026-01-26"},
+  "C025": {"product_id": "P1005", "rating": 5, "comment": "Perfect temperature every time.", "date": "2026-01-27"},
+
+  "C026": {"product_id": "P1001", "rating": 5, "comment": "Exceeded expectations.", "date": "2026-01-28"},
+  "C027": {"product_id": "P1002", "rating": 3, "comment": "Decent but overpriced.", "date": "2026-01-29"},
+  "C028": {"product_id": "P1003", "rating": 5, "comment": "Very secure and fast alerts.", "date": "2026-01-30"},
+  "C029": {"product_id": "P1004", "rating": 4, "comment": "Great for workouts.", "date": "2026-01-31"},
+  "C030": {"product_id": "P1005", "rating": 3, "comment": "Good but heavy.", "date": "2026-02-01"},
+
+  "C031": {"product_id": "P1001", "rating": 4, "comment": "Very responsive voice control.", "date": "2026-02-02"},
+  "C032": {"product_id": "P1002", "rating": 5, "comment": "Fantastic fitness companion.", "date": "2026-02-03"},
+  "C033": {"product_id": "P1003", "rating": 4, "comment": "Works as advertised.", "date": "2026-02-04"},
+  "C034": {"product_id": "P1004", "rating": 5, "comment": "Crystal clear audio.", "date": "2026-02-05"},
+  "C035": {"product_id": "P1005", "rating": 4, "comment": "Keeps drinks warm for hours.", "date": "2026-02-06"},
+
+  "C036": {"product_id": "P1001", "rating": 3, "comment": "A bit flimsy.", "date": "2026-02-07"},
+  "C037": {"product_id": "P1002", "rating": 4, "comment": "Good tracking accuracy.", "date": "2026-02-08"},
+  "C038": {"product_id": "P1003", "rating": 5, "comment": "Excellent product.", "date": "2026-02-09"},
+  "C039": {"product_id": "P1004", "rating": 3, "comment": "Battery drains fast.", "date": "2026-02-10"},
+  "C040": {"product_id": "P1005", "rating": 5, "comment": "Love the temperature control.", "date": "2026-02-11"},
+
+  "C041": {"product_id": "P1001", "rating": 4, "comment": "Good for reading.", "date": "2026-02-12"},
+  "C042": {"product_id": "P1002", "rating": 5, "comment": "Very motivating.", "date": "2026-02-13"},
+  "C043": {"product_id": "P1003", "rating": 3, "comment": "Alerts are too sensitive.", "date": "2026-02-14"},
+  "C044": {"product_id": "P1004", "rating": 4, "comment": "Solid earbuds.", "date": "2026-02-15"},
+  "C045": {"product_id": "P1005", "rating": 4, "comment": "Great for the office.", "date": "2026-02-16"},
+
+  "C046": {"product_id": "P1001", "rating": 5, "comment": "My favorite lamp now.", "date": "2026-02-17"},
+  "C047": {"product_id": "P1002", "rating": 3, "comment": "Not very durable.", "date": "2026-02-18"},
+  "C048": {"product_id": "P1003", "rating": 4, "comment": "Good overall.", "date": "2026-02-19"},
+  "C049": {"product_id": "P1004", "rating": 5, "comment": "Fantastic for calls.", "date": "2026-02-20"},
+  "C050": {"product_id": "P1005", "rating": 5, "comment": "Perfect gift item.", "date": "2026-02-21"}
+}

@@ -1,0 +1,14 @@
+feedback and product GROUB 2
+│── create_chart.py
+│── DATABASE
+│   │── feedback.json
+│   └── product.json
+│── data_analyze.py
+│── main.py
+│── resolve_file.py
+│── save_chart_image.py
+│── save_to_json.py
+│── VisualData
+│   │── dashboard.json
+│   │── dashboard_g10uf.json
+│   └── ratings_chart.png

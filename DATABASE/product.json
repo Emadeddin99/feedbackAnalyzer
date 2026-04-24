@@ -1,0 +1,32 @@
+{
+  "P1001": {
+    "product_name": "EchoLite Smart Lamp",
+    "product_description": "Voice-activated LED lamp with adjustable brightness.",
+    "retail_price": 49.99,
+    "cost_to_produce": 18.25
+  },
+  "P1002": {
+    "product_name": "PulseBand Fitness Tracker",
+    "product_description": "Lightweight fitness tracker with heart-rate monitoring.",
+    "retail_price": 89.99,
+    "cost_to_produce": 32.10
+  },
+  "P1003": {
+    "product_name": "HomeGuard Mini Hub",
+    "product_description": "Compact home security hub with motion detection.",
+    "retail_price": 129.99,
+    "cost_to_produce": 54.00
+  },
+  "P1004": {
+    "product_name": "AeroSound Wireless Earbuds",
+    "product_description": "Noise-cancelling earbuds with 24-hour battery life.",
+    "retail_price": 119.99,
+    "cost_to_produce": 41.75
+  },
+  "P1005": {
+    "product_name": "ThermaMug Pro",
+    "product_description": "Smart mug that maintains beverage temperature.",
+    "retail_price": 79.99,
+    "cost_to_produce": 27.40
+  }
+}
