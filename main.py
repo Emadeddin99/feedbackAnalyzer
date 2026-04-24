@@ -39,7 +39,7 @@ def validate_product_ids(fb_data, pr_data):
 
     return True
 
-
+#change the parameter to "False" to skip auto-saving the chart image
 def main(auto_save=True):
 
     fb_data = fetchdata("DATABASE/feedback.json")
