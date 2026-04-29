@@ -20,16 +20,6 @@ def fetchdata(filename):
     return None
 
 
-def fetch_values(table, field):
-    """
-    Fetch values from a specific field in a table (dict of dicts).
-    Returns a list, filtering out None values.
-    """
-    if not table:
-        return []
-    return [entry.get(field) for entry in table.values() if entry.get(field) is not None]
-
-
 # --- Build and Print Dashboard ---
 def build_and_print_dashboard(stats, pr_data):
     """
